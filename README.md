@@ -4,7 +4,7 @@ Statistical Theory Project CU Denver Fall 2023
 ---
 
 
-# Statistical Theory Final Project Proposal
+# Statistical Theory Final Project 
 
 ---
 
