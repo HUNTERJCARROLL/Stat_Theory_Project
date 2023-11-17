@@ -1,3 +1,4 @@
-# Stat_Theory_Project
-Statistical Theory Project CU Denver
+Statistical Theory Project CU Denver Fall 2023
 
+
+---
